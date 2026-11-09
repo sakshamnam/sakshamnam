@@ -35,22 +35,17 @@ An AI-powered career development platform designed to help students improve thei
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/sakshamnam">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/sakshamnam">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sakshamnam&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Let's Build Something Amazing
-
-<img src="https://komarev.com/ghpvc/?username=sakshamnam&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
-
-**Thanks for visiting my profile!**
+<a href="https://github.com/sakshamnam">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
