@@ -88,8 +88,8 @@ A platform designed to help students improve their skills, explore career opport
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=581C87" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/saksham-namdeo-9639013b7/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=581C87" alt="LinkedIn"/>
+ <a href="https://www.linkedin.com/in/saksham-namdeo-9639013b7/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
