@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Student at UIT Shivpuri
+- 🎓 CSE Student at UIT 
 - 🚀 Aspiring Full Stack Developer
 - 💡 Interested in building real-world applications
 - 🌱 Currently learning JavaScript and Full Stack Development
