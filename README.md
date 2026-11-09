@@ -67,23 +67,21 @@ A platform designed to help students improve their skills, explore career opport
 
 ---
 ---
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
 ### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-vercel.vercel.app/?user=sakshamnam&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF&timezone=Asia%2FKolkata" width="85%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=sakshamnam&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="85%" alt="GitHub Streak"/>
 
 <br/><br/>
 
 ### 📊 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamnam&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamnam&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
-
 ---
 ## 💻 Most Used Languages
 
