@@ -39,11 +39,7 @@ An AI-powered career development platform designed to help students improve thei
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Most Used Languages"/>
 
-<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamnam&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
-
-</div>
 
 ## 💻 Most Used Languages
 
