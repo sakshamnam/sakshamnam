@@ -5,12 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Learning+Full+Stack+Development;Turning+Ideas+Into+Code;Creating+Something+Meaningful" />
 
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=sakshamnam&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/sakshamnam?label=FOLLOWERS&color=8b5cf6&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/sakshamnam/SkillForge-AI?label=SKILLFORGE%20STARS&color=2563eb&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/sakshamnam?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&labelColor=090014" />
+
+<img src="https://img.shields.io/github/stars/sakshamnam?label=TOTAL%20STARS&style=for-the-badge&color=8b5cf6&labelColor=090014" />
 
 </div>
 
