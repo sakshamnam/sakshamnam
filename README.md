@@ -80,26 +80,38 @@ A platform designed to help students improve their skills, explore career opport
 </div>
 
 ---
-## 🌐 Connect With Me
+---
+
+<h2 align="center">🌌 LET'S CONNECT</h2>
+
+<p align="center">
+  <i>Have an idea, a project, or just want to talk about technology?</i><br/>
+  <b>My inbox is always open for meaningful conversations.</b>
+</p>
 
 <div align="center">
 
 <a href="https://github.com/sakshamnam">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=581C87" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Code-0D1117?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=581C87" />
 </a>
-&nbsp;
- <a href="https://www.linkedin.com/in/saksham-namdeo-9639013b7/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/saksham-namdeo-9639013b7/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=1D4ED8" />
 </a>
 
 <br/><br/>
 
-**Let's Connect & Build Something Amazing!**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:581c87,50:312e81,100:090014&height=2&section=header&width=700" width="75%" />
 
-<sub>Open to learning, collaboration and exciting development projects.</sub>
+### ✦ BUILD. COLLABORATE. INNOVATE. ✦
+
+<sub>Full Stack Development • Creative Ideas • Real-World Projects</sub>
 
 </div>
-</div>
+
+---
 ## 🐍 Contribution Graph
 
 <div align="center">
