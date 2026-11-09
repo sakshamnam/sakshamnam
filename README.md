@@ -35,11 +35,13 @@ An AI-powered career development platform designed to help students improve thei
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
 
-![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Most Used Languages"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
 
 </div>
 
