@@ -36,7 +36,7 @@ An AI-powered career development platform designed to help students improve thei
 <div align="center">
 
 <a href="https://github.com/sakshamnam">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+ <img width="49%" src="https://github-stats-extended.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/sakshamnam">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
