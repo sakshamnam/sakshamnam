@@ -80,7 +80,6 @@ A platform designed to help students improve their skills, explore career opport
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -89,13 +88,11 @@ A platform designed to help students improve their skills, explore career opport
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/saksham-namdeo-9639013b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
-
----
-
-<div align="center">
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
