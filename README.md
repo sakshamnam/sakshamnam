@@ -68,8 +68,7 @@ A platform designed to help students improve their skills, explore career opport
 
 </div>
 
----
----
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -83,9 +82,7 @@ A platform designed to help students improve their skills, explore career opport
 
 <img src="https://raw.githubusercontent.com/sakshamnam/sakshamnam/main/metrics.svg" width="100%" alt="GitHub Contribution Analytics"/>
 </div>
----
-```html
----
+
 <h2 align="center">💻 MOST USED LANGUAGES</h2>
 
 <div align="center">
