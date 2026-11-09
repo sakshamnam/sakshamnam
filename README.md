@@ -84,18 +84,26 @@ A platform designed to help students improve their skills, explore career opport
 <img src="https://raw.githubusercontent.com/sakshamnam/sakshamnam/main/metrics.svg" width="100%" alt="GitHub Contribution Analytics"/>
 </div>
 ---
-## 💻 Most Used Languages
+```html
+---
+<h2 align="center">💻 MOST USED LANGUAGES</h2>
 
 <div align="center">
 
-| Language | Usage |
-|:---|---:|
-| HTML | 88.85% |
-| JavaScript | 6.20% |
-| CSS | 4.95% |
+<img src="https://img.shields.io/badge/HTML-88.85%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=090014" />
+
+<img src="https://img.shields.io/badge/JavaScript-6.20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=090014" />
+
+<img src="https://img.shields.io/badge/CSS-4.95%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=090014" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:581c87,50:312e81,100:090014&height=3" width="75%" />
+
+<sub>✦ Languages used across my public repositories ✦</sub>
 
 </div>
-
+```
 ---
 ---
 
