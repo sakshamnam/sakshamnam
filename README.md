@@ -100,9 +100,6 @@ A platform designed to help students improve their skills, explore career opport
 <sub>✦ Languages used across my public repositories ✦</sub>
 
 </div>
-```
----
----
 
 <h2 align="center">🌌 LET'S CONNECT</h2>
 
