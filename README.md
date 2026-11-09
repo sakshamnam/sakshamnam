@@ -41,7 +41,7 @@ An AI-powered career development platform designed to help students improve thei
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamnam&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
 
 </div>
 
