@@ -85,13 +85,20 @@ A platform designed to help students improve their skills, explore career opport
 <div align="center">
 
 <a href="https://github.com/sakshamnam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=581C87" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/saksham-namdeo-9639013b7/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=581C87" alt="LinkedIn"/>
 </a>
 
+<br/><br/>
+
+**Let's Connect & Build Something Amazing!**
+
+<sub>Open to learning, collaboration and exciting development projects.</sub>
+
+</div>
 </div>
 ## 🐍 Contribution Graph
 
