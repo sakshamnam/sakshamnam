@@ -7,6 +7,10 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sakshamnam&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/sakshamnam?label=FOLLOWERS&color=8b5cf6&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/sakshamnam/SkillForge-AI?label=SKILLFORGE%20STARS&color=2563eb&style=for-the-badge" />
 
 </div>
 
