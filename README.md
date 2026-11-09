@@ -135,10 +135,22 @@ A platform designed to help students improve their skills, explore career opport
 
 <img src="https://raw.githubusercontent.com/sakshamnam/sakshamnam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-</div>
-### 💜 Thanks for visiting my profile!
+</div><div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%E2%9C%A8" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,50:581c87,100:2563eb&height=3&width=700" width="80%" />
+
+<h2>✨ THANKS FOR VISITING ✨</h2>
+
+<p>
+<i>Thanks for taking the time to explore my GitHub profile.</i><br/>
+<b>Keep Learning. Keep Building. Keep Growing.</b>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=See+you+in+the+next+project!;Let's+build+something+amazing!;Code.+Create.+Innovate." />
+
+<br/><br/>
+
+<sub>💜 Crafted with passion by Saksham Namdeo</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:581c87,100:090014&height=120&section=footer" width="100%" />
 
