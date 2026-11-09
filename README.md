@@ -35,24 +35,18 @@ An AI-powered career development platform designed to help students improve thei
 
 <div align="center">
 
-<a href="https://github.com/sakshamnam">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</a>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true)
 
-<a href="https://github.com/sakshamnam">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages"/>
-</a>
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-<br/><br/>
-
-<a href="https://github.com/sakshamnam">
-<img width="75%" src="https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true)
 
 </div>
 
-### 💻 Most Used Languages
+## 💻 Most Used Languages
 
-- HTML — 88.85%
-- JavaScript — 6.20%
-- CSS — 4.95%
+| Language | Usage |
+|---|---:|
+| HTML | 88.85% |
+| JavaScript | 6.20% |
+| CSS | 4.95% |
