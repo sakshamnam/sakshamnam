@@ -36,16 +36,23 @@ An AI-powered career development platform designed to help students improve thei
 <div align="center">
 
 <a href="https://github.com/sakshamnam">
- <img width="49%" src="https://github-stats-extended.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/sakshamnam">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=sakshamnam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </a>
 
-<br/>
+<a href="https://github.com/sakshamnam">
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshamnam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/sakshamnam">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=sakshamnam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 </div>
+
+### 💻 Most Used Languages
+
+- HTML — 88.85%
+- JavaScript — 6.20%
+- CSS — 4.95%
