@@ -94,7 +94,15 @@ A platform designed to help students improve their skills, explore career opport
 ---
 
 <div align="center">
+---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sakshamnam/sakshamnam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
+</div>
 ### 💜 Thanks for visiting my profile!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%E2%9C%A8" />
